@@ -1,4 +1,4 @@
-Things i havwe learnt within the week.
+ What I have learned from this course
 
 -How to create and manage repositories for your projects.
 -How to collaborate with others using pull requests and code reviews.
