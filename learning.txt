@@ -1,0 +1,7 @@
+Things i havwe learnt within the week.
+
+-How to create and manage repositories for your projects.
+-How to collaborate with others using pull requests and code reviews.
+-How to track issues and manage project tasks with GitHub Issues and Projects.
+-How to use GitHub Actions for automating workflows like testing and deployment.
+-How to contribute to open source projects by forking and submitting pull requests.
